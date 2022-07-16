@@ -1,0 +1,21 @@
+/* Estilos Gerais */
+@import './reset.css';
+@import './global.css';
+
+/* Menu */
+@import './menu.css';
+
+/* Principal - Animais */
+@import './animais.css';
+
+/* FAQ */
+@import './faq.css';
+
+/* Contato */
+@import './contato.css';
+
+/* Footer */
+@import './footer.css';
+
+/* Modificações JavaScript */
+@import './js.css';
